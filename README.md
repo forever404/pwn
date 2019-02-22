@@ -41,7 +41,7 @@ pip install pwntools
 
 这里上传了bin-linux是radare官方给的练习题，目的是为了练习Reverse，但是大部分题可以通过pwn解答。  
 
-另外[pwnable.kr](pwnable.kr)也是一个很棒的网站。  
+另外[pwnable.kr](https://pwnable.kr)也是一个很棒的网站。  
 
 希望大家能够沉下心来欣赏二进制的艺术。  
 
