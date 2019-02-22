@@ -37,4 +37,11 @@ pwn是最暴力的攻击方式，也最具美感，希望大家玩的愉快。
 pip install pwntools
 ```
 
-注意python的版本问题
+注意python的版本问题  
+
+这里上传了bin-linux是radare官方给的练习题，目的是为了练习Reverse，但是大部分题可以通过pwn解答。  
+
+另外[pwnable.kr](www.pwnable.kr)也是一个很棒的网站。  
+
+希望大家能够沉下心来欣赏二进制的艺术。  
+
