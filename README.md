@@ -17,13 +17,13 @@ pwn是最暴力的攻击方式，也最具美感，希望大家玩的愉快。
 
 由于这个工具是开源的，所以维护良好，只是上手难度较大，建议阅读官方文档。  
 
-[!文档](https://radare.gitbooks.io/radare2book/content/)  
+[radare2文档](https://radare.gitbooks.io/radare2book/content/)  
 
 这两篇文章介绍了c语言调用栈的原理，建议认真阅读：  
 
-[!c语言调用栈(1)](http://www.cnblogs.com/clover-toeic/p/3755401.html)  
+[c语言调用栈(1)](http://www.cnblogs.com/clover-toeic/p/3755401.html)  
 
-[!c语言调用栈(2)](http://www.cnblogs.com/clover-toeic/p/3756668.html)  
+[c语言调用栈(2)](http://www.cnblogs.com/clover-toeic/p/3756668.html)  
 
 然后我建议阅读《《Linux c 一站式编程》》这本书的中页部分详细的讲述了c与汇编的对应关系，以及不同编译器的特性，还有各种段的特性，这些基础知识是很有必要的。  
 
