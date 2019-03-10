@@ -7,10 +7,10 @@
 pwn大概有这么几种类型：  
 
 1. ROP
-    1. re2text
-    2. re2lib
-    3. re2shellcode
-    4. re2system  
+    * re2text
+    * re2lib
+    * re2shellcode
+    * re2system  
     
 2. 格式化字符串漏洞  
 
