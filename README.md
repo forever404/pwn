@@ -1,15 +1,42 @@
-### PWN 入门
-
+### PWN 入门  
 ---  
 
 帮助菜鸟玩家上手pwn题  
 
 pwn大概有这么几种类型：  
 
-    1. re2text
-    2. re2lib
-    3. re2shellcode
-    4. re2system
+1. ROP
+    * re2text
+    * re2lib
+    * re2shellcode
+    * re2system  
+    
+2. 格式化字符串漏洞  
+
+3. 堆溢出
+    * Unlink
+    * Use After Free
+    * Fastbin Attack  
+    * Chunk Extend / Overlapping  
+    * House Of Einherjar  
+    * House of Lore  
+    * House Of Force  
+    * Unsorted Bin Attack  
+    * House of Orange  
+    * House of Rabbit  
+    * House of Roman  
+
+
+4. IO_FILE利用  
+    * 伪造 vtable 劫持程序
+    * FSOP
+    * 新版本 libc 下 IO_FILE 的利用  
+
+5. 条件竞争  
+
+6. 整数溢出  
+
+7. 沙箱逃逸
 
 pwn是最暴力的攻击方式，也最具美感，希望大家玩的愉快。
 
@@ -47,3 +74,4 @@ pip install pwntools
 
 希望大家能够沉下心来欣赏二进制的艺术。  
 
+##### Author dyf@Ever404
