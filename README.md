@@ -2,7 +2,7 @@
 
 ---  
 
-帮助菜鸟玩家上手pwn题  
+修炼的是栈道，秉行的是堆术    
 
 pwn大概有这么几种类型：  
 
@@ -81,7 +81,7 @@ pip install pwntools
 
 ## Binary Reading List
 
-*学无止境
+*学无止境*
 
 ### Books
 - [Reverse Engineering for Beginners](https://beginners.re/) -- by Dennis Yurichev
