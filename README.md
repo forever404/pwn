@@ -1,4 +1,5 @@
-### PWN 入门  
+<h2 align=center>PWN 入门</h2>  
+
 ---  
 
 帮助菜鸟玩家上手pwn题  
@@ -363,5 +364,7 @@ pip install pwntools
 
 - [From fuzzing to 0-day](https://blog.techorganic.com/2014/05/14/from-fuzzing-to-0-day/)
 
+---  
 
-##### Author dyf@Ever404
+
+<h5 align=center>Author dyf@Ever404</h5>
